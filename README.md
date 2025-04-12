@@ -55,8 +55,8 @@
 - Financial Analysis & Reporting
 
 ## 📫 Let’s Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/fakhrulsyahmi)
-- 📧 fakhrulsyahmi@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fakhrul-syahmi-799730136/)
+- 📧 mufasyahcons@gmail.com
 
 ---
 “Turning data into decisions — one dashboard at a time.”
