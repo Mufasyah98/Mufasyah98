@@ -43,7 +43,7 @@
 
 ## 📚 Trainer Profile
 - Conducted corporate training for:
-  - **Petronas, Sime Darby Industrial, LHDN, PERODUA, ANGKASA, Hitachi Elevator, Johor Port**
+  - **Petronas, Sime Darby Industrial, LHDN, PERODUA, Shell, Affin Bank, Maybank, Johor Port**
 - Training Topics:
   - Excel Mastery, Power BI Visualization, AI for Business, Data Automation, Digital Marketing Analytics
 
