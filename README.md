@@ -23,8 +23,7 @@
 ## 🛠️ Tools & Technologies
 
 ### 📈 Analytics & Visualization
-- **Power BI**, **Excel (Advanced)**, **Looker Studio**, **Tableau**
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black),![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ### 🐍 Programming & Data Science
 - **Python**, **R**, **SQL**, **Power Query**
 - scikit-learn, NumPy, Pandas, Matplotlib
