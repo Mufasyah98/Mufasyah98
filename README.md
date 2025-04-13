@@ -24,7 +24,7 @@
 
 ### 📈 Analytics & Visualization
 - **Power BI**, **Excel (Advanced)**, **Looker Studio**, **Tableau**
-
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ### 🐍 Programming & Data Science
 - **Python**, **R**, **SQL**, **Power Query**
 - scikit-learn, NumPy, Pandas, Matplotlib
