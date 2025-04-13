@@ -9,7 +9,6 @@
 ## 🎓 Academic Background
 - Master of Data Science & Analytics (UKM)
 - Bachelor of Economics (UKM)
-- Based in Bangi, Selangor, Malaysia 🇲🇾
 
 ## 🚀 Specializations
 - **Data Analytics & Business Intelligence**
