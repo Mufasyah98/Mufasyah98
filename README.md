@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Fakhrul Syahmi
 
-📊 A data analytics consultant, economist, certified trainer, and freelance data scientist with a passion for solving business problems using data.
+📊 A data analytics consultant, economist, certified trainer, and data scientist with a passion for solving business problems using data.
 
 ## 💼 Current Roles
 - **Freelance Data Analytics Consultant & Trainer**
