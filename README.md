@@ -3,7 +3,7 @@
 📊 A data analytics consultant, economist, certified trainer, and data scientist with a passion for solving business problems using data.
 
 ## 💼 Current Roles
-- **Data Analytics Consultant & Trainer**
+- Data Analytics Consultant & Trainer
 - HRDC Certified Trainer
 
 ## 🎓 Academic Background
