@@ -1,60 +1,90 @@
-# 👋 Hi there, I'm Fakhrul Syahmi
+# Hi there, I'm Fakhrul Syahmi 👋
 
-📊 A data analytics consultant, economist, certified trainer, and data scientist with a passion for solving business problems using data.
+## About Me
+I am a Data Consultant, Data Analyst, and AI Trainer with experience in Data Analytics, Business Intelligence, and AI-powered workplace solutions. I specialize in transforming raw data into meaningful insights using modern analytics and automation tools.
 
-## 💼 Current Roles
-- Data Analytics Consultant & Trainer
-- HRDC Certified Trainer
-
-## 🎓 Academic Background
-- Master of Data Science & Analytics (UKM)
-- Bachelor of Economics (UKM)
-
-## 🚀 Specializations
-- **Data Analytics & Business Intelligence**
-  - Dashboard & Reports using Power BI, Excel, Looker Studio
-  - Data cleaning, transformation, modeling, and storytelling
-- **Automation & App Development**
-  - Power Apps, Power Automate, AppSheet
-- **AI for Productivity**
-  - Microsoft Copilot, ChatGPT, Notion AI
-
-## 🛠️ Tools & Technologies
-
-### 📈 Analytics & Visualization
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white) ![Looker](https://a11ybadges.com/badge?logo=looker)
-### 🐍 Programming & Data Science
-- **Python**, **R**, **SQL**, **Power Query**
-- scikit-learn, NumPy, Pandas, Matplotlib
-
-### 🔍 Data Science & Machine Learning
-- Python, TensorFlow, Keras, scikit-learn, NumPy, Pandas
-- R, Tidyverse, ggplot2, Shiny
-
-### 🧠 AI & Automation
-- ChatGPT, Microsoft Copilot
-- Power Automate, AppSheet, Notion AI
-
-### 🗄️ Databases & Big Data
-- MySQL, PostgreSQL, MongoDB
-- Hadoop (Basic)
-
-## 📚 Trainer Profile
-- Conducted corporate training for:
-  - **Petronas, Sime Darby Industrial, LHDN, PERODUA, Shell, Affin Bank, Maybank, Johor Port**
-- Training Topics:
-  - Excel Mastery, Power BI Visualization, AI for Business, Data Automation, Digital Marketing Analytics
-
-## 🔍 Interests
-- AI-Powered Decision-Making in Business
-- Time Series Forecasting for Operations
-- Enhancing Team Productivity with Low-Code Tools
-- Data Literacy in SMEs and Corporates
-- Financial Analysis & Reporting
-
-## 📫 Let’s Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/fakhrul-syahmi-799730136/)
-- 📧 mufasyahcons@gmail.com
+- Freelance Data Analyst & Consultant
+- Certified Trainer for Microsoft Excel, Power BI & AI Tools
+- Master of Data Science
+- Bachelor of Economics
+- Passionate about AI, Data Visualization & Automation
 
 ---
-“Turning data into decisions — one dashboard at a time.”
+
+## Expertise
+
+### Data Analytics & BI
+- Power BI
+- Excel Advanced Analytics
+- SQL & MySQL
+- Looker Studio
+- Data Visualization
+- Dashboard Development
+- DAX & Power Query
+
+### Data Science & Machine Learning
+- Python
+- R Programming
+- Machine Learning
+- Predictive Analytics
+- Topic Modeling (LDA)
+- Text Analytics
+
+### AI & Automation
+- ChatGPT
+- Microsoft Copilot
+- AI for Workplace Productivity
+- Power Apps
+- Power Automate
+- AI-Powered Reporting
+
+---
+
+## Currently Working On
+- AI & Automation Training Programs
+- Data Analytics Consulting Projects
+- Machine Learning Research
+- Power BI Dashboard Solutions
+- Topic Modeling Research using LDA
+
+---
+
+## Tools & Technologies
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+
+---
+
+## Featured Projects
+- Power BI Business Dashboard
+- AI-Powered Data Analysis Automation
+- Machine Learning Prediction Models
+- Text Analytics & Topic Modeling
+- SQL Database Analytics
+- Excel Automation Solutions
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/fakhrul-syahmi-799730136/
+- Email: your-email@example.com
+
+---
+
+> “Turning Data into Insights and Insights into Decisions.”
