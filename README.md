@@ -72,14 +72,6 @@ I am a Data Consultant, Data Analyst, and AI Trainer with experience in Data Ana
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mufasyah98&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mufasyah98&layout=compact)
-
----
-
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/fakhrul-syahmi-799730136/
