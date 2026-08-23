@@ -118,38 +118,6 @@ My work focuses on helping organisations move from **raw data → meaningful ins
 
 ---
 
-## Featured Work
-
-### Business Intelligence & Power BI
-
-- [**Power BI with AI**](https://github.com/Mufasyah98/Power-BI-with-AI) — combining business intelligence workflows with AI-assisted analytics.
-- [**Power BI DAX**](https://github.com/Mufasyah98/Power-BI-DAX) — DAX measures, analytics patterns and Power BI learning materials.
-- [**Power BI Level 2**](https://github.com/Mufasyah98/Power-BI-Level-2) — advanced Power BI training resources.
-- [**Power BI Training Data**](https://github.com/Mufasyah98/Power-BI-Data-For-Training) — datasets and resources used for practical Power BI exercises.
-
-### Google Analytics, Cloud & No-Code Solutions
-
-- [**Google AppSheet**](https://github.com/Mufasyah98/Google-AppSheet) — practical AppSheet resources for no-code application development and workflow solutions.
-- [**Looker Studio**](https://github.com/Mufasyah98/Looker-Studio) — Google-based data visualisation and interactive reporting resources.
-- **Google Cloud Platform** — cloud-based data, analytics and application workflows.
-- **Google Colab** — cloud notebook environment for Python, data analysis and machine learning experimentation.
-
-### Data, SQL & Programming
-
-- [**SQL Data Analytics**](https://github.com/Mufasyah98/SQL-Data-Analytics) — SQL-based analytical exercises and data exploration.
-- [**SQL Data Warehouse**](https://github.com/Mufasyah98/SQL-Data-Warehouse) — data warehouse concepts and SQL implementation work.
-- [**Python Beginner**](https://github.com/Mufasyah98/Python-Beginner) — Python fundamentals for analytics and training.
-- [**Unstructured Data Project**](https://github.com/Mufasyah98/Unstructured-Data-Project) — work involving unstructured-data analysis.
-
-### AI, Automation & Enterprise Applications
-
-- [**AI Mastery**](https://github.com/Mufasyah98/AI-Mastery) — practical AI training and applied generative-AI resources.
-- [**Generative AI for Finance**](https://github.com/Mufasyah98/Generative-AI-For-Finance) — AI applications for finance and business users.
-- [**Power Automate**](https://github.com/Mufasyah98/Power-Automate) — workflow automation resources and examples.
-- [**Dynamics 365 Finance**](https://github.com/Mufasyah98/Dynamic365-Finance) — finance-system training and practical resources.
-
----
-
 ## Professional Focus
 
 I am particularly interested in projects where **data analytics, AI and business decision-making intersect**, including:
