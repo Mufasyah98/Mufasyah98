@@ -16,7 +16,7 @@ I help organisations turn data into actionable insights through **analytics, bus
 
 ## About Me
 
-I am a **Data Analytics Consultant, Data Scientist, and Corporate Trainer** based in Malaysia, working across data analytics, business intelligence, AI, automation, and digital productivity.
+I am a **Data Analytics Consultant, Data Scientist, and Corporate Trainer** based in Malaysia, working across data analytics, business intelligence, AI, automation, cloud platforms, and digital productivity.
 
 My work focuses on helping organisations move from **raw data → meaningful insights → better decisions** through practical analytics solutions and capability-building programs.
 
@@ -26,6 +26,8 @@ My work focuses on helping organisations move from **raw data → meaningful ins
 - Advanced Excel, Power Query, Power Pivot & DAX
 - SQL analytics and data preparation
 - Python & R for data science and machine learning
+- Google Colab for cloud-based Python, analytics and machine learning workflows
+- Google Cloud Platform for cloud-based data and analytics solutions
 - Generative AI, Microsoft Copilot & AI-assisted analytics
 - Power Apps & Power Automate solutions
 - Google Workspace, Google Sheets, Looker Studio, AppSheet, Gemini & Google AI tools
@@ -39,7 +41,7 @@ My work focuses on helping organisations move from **raw data → meaningful ins
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,mysql,azure,firebase,git,github,vscode&perline=8" alt="Technology Skills" />
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,azure,gcp,firebase,git,github,vscode&perline=9" alt="Technology Skills" />
   </a>
 </div>
 
@@ -57,6 +59,8 @@ My work focuses on helping organisations move from **raw data → meaningful ins
 ### Google Ecosystem
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace" />
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
@@ -72,6 +76,7 @@ My work focuses on helping organisations move from **raw data → meaningful ins
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning" />
 </p>
 
@@ -80,6 +85,7 @@ My work focuses on helping organisations move from **raw data → meaningful ins
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform" />
   <img src="https://img.shields.io/badge/Data%20Warehouse-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Warehouse" />
 </p>
 
@@ -101,9 +107,10 @@ My work focuses on helping organisations move from **raw data → meaningful ins
 |---|---|
 | **Business Intelligence** | Power BI, dashboard design, KPI reporting, semantic modelling, DAX, Power Query |
 | **Data Analytics** | Exploratory analysis, business analysis, trend analysis, customer analytics, reporting |
-| **Data Science** | Python, R, machine learning, predictive analytics, topic modelling, text analytics |
+| **Data Science** | Python, R, Google Colab, machine learning, predictive analytics, topic modelling, text analytics |
 | **Excel Analytics** | Advanced formulas, PivotTables, Power Pivot, Power Query, automation, dashboards |
-| **Google Ecosystem** | Google Workspace, Google Sheets, Looker Studio, AppSheet, Gemini, Google AI Studio |
+| **Google Ecosystem** | Google Cloud Platform, Google Colab, Google Workspace, Google Sheets, Looker Studio, AppSheet, Gemini, Google AI Studio |
+| **Cloud & Data Platforms** | Google Cloud Platform, Microsoft Azure, Firebase, SQL Server, data warehouse concepts |
 | **SQL & Data** | SQL querying, data preparation, data warehouse concepts, analytical datasets |
 | **AI & GenAI** | ChatGPT, Claude, Gemini, Microsoft Copilot, prompt engineering, AI-assisted analytics |
 | **Automation** | Power Automate, Power Apps, AppSheet, workflow design, AI-enabled productivity |
@@ -120,10 +127,12 @@ My work focuses on helping organisations move from **raw data → meaningful ins
 - [**Power BI Level 2**](https://github.com/Mufasyah98/Power-BI-Level-2) — advanced Power BI training resources.
 - [**Power BI Training Data**](https://github.com/Mufasyah98/Power-BI-Data-For-Training) — datasets and resources used for practical Power BI exercises.
 
-### Google Analytics & No-Code Solutions
+### Google Analytics, Cloud & No-Code Solutions
 
 - [**Google AppSheet**](https://github.com/Mufasyah98/Google-AppSheet) — practical AppSheet resources for no-code application development and workflow solutions.
 - [**Looker Studio**](https://github.com/Mufasyah98/Looker-Studio) — Google-based data visualisation and interactive reporting resources.
+- **Google Cloud Platform** — cloud-based data, analytics and application workflows.
+- **Google Colab** — cloud notebook environment for Python, data analysis and machine learning experimentation.
 
 ### Data, SQL & Programming
 
@@ -150,6 +159,8 @@ I am particularly interested in projects where **data analytics, AI and business
 - Customer and operational analytics
 - Financial and business reporting
 - Machine learning for practical business problems
+- Python analytics and experimentation using Google Colab
+- Cloud-based analytics using Google Cloud Platform and Microsoft Azure
 - Text analytics and topic modelling
 - Analytics automation
 - Google Workspace and no-code business solutions
@@ -183,7 +194,7 @@ I am particularly interested in projects where **data analytics, AI and business
 
 ## Let's Connect
 
-I am open to collaborations involving **Data Analytics, Power BI, Data Science, AI, Automation, Google Workspace, Corporate Training, and Analytics Consulting**.
+I am open to collaborations involving **Data Analytics, Power BI, Data Science, AI, Automation, Google Cloud, Google Workspace, Corporate Training, and Analytics Consulting**.
 
 - Website: [mufasyah.com](https://mufasyah.com/)
 - LinkedIn: [Fakhrul Syahmi](https://www.linkedin.com/in/fakhrul-syahmi-799730136/)
