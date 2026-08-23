@@ -28,6 +28,7 @@ My work focuses on helping organisations move from **raw data → meaningful ins
 - Python & R for data science and machine learning
 - Generative AI, Microsoft Copilot & AI-assisted analytics
 - Power Apps & Power Automate solutions
+- Google Workspace, Google Sheets, Looker Studio, AppSheet, Gemini & Google AI tools
 - Data storytelling, reporting and decision support
 
 ---
@@ -51,6 +52,17 @@ My work focuses on helping organisations move from **raw data → meaningful ins
   <img src="https://img.shields.io/badge/Power%20Pivot-217346?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Pivot" />
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="DAX" />
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
+</p>
+
+### Google Ecosystem
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
+  <img src="https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AppSheet" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
 </p>
 
 ### Data Science & Machine Learning
@@ -91,9 +103,10 @@ My work focuses on helping organisations move from **raw data → meaningful ins
 | **Data Analytics** | Exploratory analysis, business analysis, trend analysis, customer analytics, reporting |
 | **Data Science** | Python, R, machine learning, predictive analytics, topic modelling, text analytics |
 | **Excel Analytics** | Advanced formulas, PivotTables, Power Pivot, Power Query, automation, dashboards |
+| **Google Ecosystem** | Google Workspace, Google Sheets, Looker Studio, AppSheet, Gemini, Google AI Studio |
 | **SQL & Data** | SQL querying, data preparation, data warehouse concepts, analytical datasets |
-| **AI & GenAI** | ChatGPT, Claude, Microsoft Copilot, prompt engineering, AI-assisted analytics |
-| **Automation** | Power Automate, Power Apps, workflow design, AI-enabled productivity |
+| **AI & GenAI** | ChatGPT, Claude, Gemini, Microsoft Copilot, prompt engineering, AI-assisted analytics |
+| **Automation** | Power Automate, Power Apps, AppSheet, workflow design, AI-enabled productivity |
 | **Training & Consulting** | Corporate training, workshops, analytics consulting, solution development |
 
 ---
@@ -106,6 +119,11 @@ My work focuses on helping organisations move from **raw data → meaningful ins
 - [**Power BI DAX**](https://github.com/Mufasyah98/Power-BI-DAX) — DAX measures, analytics patterns and Power BI learning materials.
 - [**Power BI Level 2**](https://github.com/Mufasyah98/Power-BI-Level-2) — advanced Power BI training resources.
 - [**Power BI Training Data**](https://github.com/Mufasyah98/Power-BI-Data-For-Training) — datasets and resources used for practical Power BI exercises.
+
+### Google Analytics & No-Code Solutions
+
+- [**Google AppSheet**](https://github.com/Mufasyah98/Google-AppSheet) — practical AppSheet resources for no-code application development and workflow solutions.
+- [**Looker Studio**](https://github.com/Mufasyah98/Looker-Studio) — Google-based data visualisation and interactive reporting resources.
 
 ### Data, SQL & Programming
 
@@ -134,6 +152,7 @@ I am particularly interested in projects where **data analytics, AI and business
 - Machine learning for practical business problems
 - Text analytics and topic modelling
 - Analytics automation
+- Google Workspace and no-code business solutions
 - Generative AI for workplace productivity
 - Data literacy and analytics capability development
 
@@ -164,7 +183,7 @@ I am particularly interested in projects where **data analytics, AI and business
 
 ## Let's Connect
 
-I am open to collaborations involving **Data Analytics, Power BI, Data Science, AI, Automation, Corporate Training, and Analytics Consulting**.
+I am open to collaborations involving **Data Analytics, Power BI, Data Science, AI, Automation, Google Workspace, Corporate Training, and Analytics Consulting**.
 
 - Website: [mufasyah.com](https://mufasyah.com/)
 - LinkedIn: [Fakhrul Syahmi](https://www.linkedin.com/in/fakhrul-syahmi-799730136/)
