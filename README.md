@@ -116,51 +116,6 @@ Data • AI • BI • Automation
 
 ---
 
-## Featured Work
-
-<div align="center">
-<table>
-<tr>
-<td>
-<a href="https://github.com/Mufasyah98/Power-BI-with-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mufasyah98&repo=Power-BI-with-AI&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-<td>
-<a href="https://github.com/Mufasyah98/SQL-Data-Analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mufasyah98&repo=SQL-Data-Analytics&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/Mufasyah98/AI-Mastery">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mufasyah98&repo=AI-Mastery&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-<td>
-<a href="https://github.com/Mufasyah98/Power-Automate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mufasyah98&repo=Power-Automate&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/Mufasyah98/SQL-Data-Warehouse">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mufasyah98&repo=SQL-Data-Warehouse&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-<td>
-<a href="https://github.com/Mufasyah98/Dynamic365-Finance">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mufasyah98&repo=Dynamic365-Finance&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-</tr>
-</table>
-</div>
-
----
-
 ## Consulting & Training Capabilities
 
 | Domain | What I Work On |
